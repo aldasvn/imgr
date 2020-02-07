@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "gm": "*",
-    "mkdirp": "*",
+    "mkdirp": "^0.5.1",
     "express": ">= 3 < 5",
     "async": "*",
     "imagesize": "*"
