@@ -23,16 +23,16 @@
     "optimisation"
   ],
   "dependencies": {
-    "gm": "*",
-    "mkdirp": "^0.5.1",
-    "express": ">= 3 < 5",
     "async": "*",
-    "imagesize": "*"
+    "express": ">= 3 < 5",
+    "gm": "*",
+    "image-size": "^0.8.3",
+    "mkdirp": "^0.5.1"
   },
   "devDependencies": {
-    "mocha": "latest",
-    "request": "latest",
     "istanbul": "latest",
-    "jshint": "latest"
+    "jshint": "latest",
+    "mocha": "latest",
+    "request": "latest"
   }
 }
